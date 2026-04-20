@@ -1,0 +1,3 @@
+Rust flakes off the gate
+a dog barks twice, then goes in
+the streetlight clicks on
